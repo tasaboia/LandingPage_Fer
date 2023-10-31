@@ -61,7 +61,8 @@ export default function Index() {
                 </div>
                 <div className="max-w-md">
                   <p className="md:text-xl text-gray-900 font-semibold">
-                    Texto aqui
+                    Faça as pazes com a sua mente. Descubra na terapia um espaço
+                    seguro para compreender, crescer e encontrar equilíbrio.
                   </p>
                 </div>
               </div>
