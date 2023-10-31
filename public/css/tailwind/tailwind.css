@@ -854,6 +854,10 @@ video {
   max-width: 80rem;
 }
 
+.max-w-\[200px\] {
+  max-width: 200px;
+}
+
 .max-w-lg {
   max-width: 32rem;
 }
@@ -1378,6 +1382,10 @@ video {
 
   .md\:w-1\/2 {
     width: 50%;
+  }
+
+  .md\:max-w-md {
+    max-width: 28rem;
   }
 
   .md\:max-w-none {

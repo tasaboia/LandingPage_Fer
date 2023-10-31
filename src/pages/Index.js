@@ -25,7 +25,7 @@ export default function Index() {
             alt=""
           />
           <img
-            className="absolute top-0 right-0 mt-64 sm:mt-80 lg:mt-64 w-2/5 animate-moveHand"
+            className="absolute top-0 right-0 mt-64 sm:mt-80 lg:mt-64 w-2/5 animate-moveHand "
             src={Perfil}
             alt=""
           />
@@ -59,10 +59,11 @@ export default function Index() {
                     />
                   </svg>
                 </div>
-                <div className="max-w-md">
+                <div className="max-w-[200px] md:max-w-md ">
                   <p className="md:text-xl text-gray-900 font-semibold">
-                    Faça as pazes com a sua mente. Descubra na terapia um espaço
-                    seguro para compreender, crescer e encontrar equilíbrio.
+                    Faça as pazes com a sua mente. Permita-se essa jornada de
+                    autocuidado e autoconhecimento. Marque sua consulta e dê o
+                    primeiro passo rumo a uma mente mais tranquila e saudável.
                   </p>
                 </div>
               </div>
