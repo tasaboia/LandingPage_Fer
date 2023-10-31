@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/static/js/main.bae862f2.js",
+    "static/media/atendimento.jpg": "/static/media/atendimento.4f18c35031e38944bd9a.jpg",
+    "static/media/perfil.png": "/static/media/perfil.4607c25331924e1dc06a.png",
+    "static/media/logo.svg": "/static/media/logo.c4937de96efdac41521415c4f08f3ffa.svg",
+    "index.html": "/index.html",
+    "main.bae862f2.js.map": "/static/js/main.bae862f2.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.bae862f2.js"
+  ]
+}
