@@ -635,7 +635,7 @@ export default function Index() {
                 Contato
               </span>
               <h1 class="font-heading text-5xl xs:text-6xl font-bold text-gray-900 mb-4">
-                <span>Conversar via WhatsApp</span>
+                <span>Conversar via</span>
                 <span class="font-serif italic">WhatsApp</span>
                 <span>?</span>
               </h1>
